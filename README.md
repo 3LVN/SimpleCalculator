@@ -1,16 +1,18 @@
-# calculator
+# Ứng dụng máy tính đơn giản
 
-Simple calculator
+- Có khả năng làm các phép tính cộng, trừ, nhân, chia.
+- Xóa các số và xóa kết quả tính toán.
 
-## Getting Started
+## Thông tin
 
-This project is a starting point for a Flutter application.
+Tên: Hoàng Văn Hiếu
+ID: 17021244
 
-A few resources to get you started if this is your first Flutter project:
+## Cách cài đặt
+- Clone project về.
+- Sử dụng Android Studio để build app từ dart code
+- Chay trên máy ảo hoặc điện thoại
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Ảnh chụp màn hình
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img height="480px" src="./img/Phone_cal.base.jpg"> <img height="480px" src="./img/Phone_cal.equa.jpg"> <img height="480px" src="./img/Phone_cal.res.jpg">

@@ -10,8 +10,8 @@ ID: 17021244
 
 ## Cách cài đặt
 - Clone project về.
-- Sử dụng Android Studio để build app từ dart code
-- Chay trên máy ảo hoặc điện thoại
+- Sử dụng Android Studio để build app từ dart code.
+- Chạy trên máy ảo hoặc điện thoại.
 
 ## Ảnh chụp màn hình
 
